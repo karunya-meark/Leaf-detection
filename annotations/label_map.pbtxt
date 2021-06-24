@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'healthy leaf'
+}
+item {
+    id: 2
+    name: 'diseased leaf'
+}
